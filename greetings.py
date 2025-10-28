@@ -1,3 +1,6 @@
+# at the begining of the program display Welcome message 
+# at the end of program display Goodbye message.
+
 def show_intro():
     print("=" * 30)
     print("Welcome to the User Info Program")

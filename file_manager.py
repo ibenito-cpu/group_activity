@@ -14,4 +14,4 @@ def read_message():
     except FileNotFoundError:
         print("Error: No saved message found.")
     except Exception as e:
-        print("Error reading message:", 
+        print("Error reading message:",e) 
